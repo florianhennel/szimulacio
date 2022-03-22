@@ -1,0 +1,10 @@
+D:\tápláléklánc\tápláléklánc\tápláléklánc\bin\Debug\tápláléklánc.exe.config
+D:\tápláléklánc\tápláléklánc\tápláléklánc\bin\Debug\tápláléklánc.exe
+D:\tápláléklánc\tápláléklánc\tápláléklánc\bin\Debug\tápláléklánc.pdb
+D:\tápláléklánc\tápláléklánc\tápláléklánc\obj\Debug\tápláléklánc.csproj.AssemblyReference.cache
+D:\tápláléklánc\tápláléklánc\tápláléklánc\obj\Debug\tápláléklánc.Form1.resources
+D:\tápláléklánc\tápláléklánc\tápláléklánc\obj\Debug\tápláléklánc.Properties.Resources.resources
+D:\tápláléklánc\tápláléklánc\tápláléklánc\obj\Debug\tápláléklánc.csproj.GenerateResource.cache
+D:\tápláléklánc\tápláléklánc\tápláléklánc\obj\Debug\tápláléklánc.csproj.CoreCompileInputs.cache
+D:\tápláléklánc\tápláléklánc\tápláléklánc\obj\Debug\tápláléklánc.exe
+D:\tápláléklánc\tápláléklánc\tápláléklánc\obj\Debug\tápláléklánc.pdb
